@@ -58,7 +58,8 @@ A curated list of cryptography resources and links.
 
 ### Books
 
-- [Modern Cryptography: The Practical Guide](https://bit.ly/3X36gel) - This book aims to provide you with a comprehensive understanding of modern cryptography and its practical applications, ranging from lightweight cryptography to post-quantum cryptography and from cryptocurrency to homomorphic encryption. After reading this book, as a security professional, you’ll be equipped to apply your newfound knowledge to protect data and information, create and implement cryptography guidelines and policies, and develop a robust cryptography program for your organization.
+- [Modern Cryptography: The Practical Guide](https://bit.ly/3X36gel) - This book aims to provide you with a comprehensive understanding of modern cryptography and its practical applications, ranging from lightweight cryptography to post-quantum cryptography and from cryptocurrency to homomorphic encryption. After reading this book, as a security professional, you’ll be equipped to apply your newfound knowledge to protect data and information, create and implement cryptography guidelines and policies, and develop a robust cryptography program for your organization. [Browse the Sample](https://s3-eu-west-1.amazonaws.com/gxmedia.galileo-press.de/leseproben/5856/2565_reading_sample.pdf)
+  
 - [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/) - The book covers many constructions for different tasks in cryptography.
 - [An Introduction to Mathematical Cryptography](http://www.math.brown.edu/~jhs/MathCryptoHome.html) - Introduction to modern cryptography.
 - [Applied Cryptography: Protocols, Algorithms and Source Code in C](https://www.wiley.com/en-ie/Applied+Cryptography%3A+Protocols%2C+Algorithms+and+Source+Code+in+C%2C+20th+Anniversary+Edition-p-9781119439028) - This cryptography classic provides you with a comprehensive survey of modern cryptography.
