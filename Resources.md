@@ -49,8 +49,6 @@ A curated list of cryptography resources and links.
   - [Mailing lists](#mailing-lists)
   - [Web-tools](#web-tools)
   - [Web-sites](#web-sites)
-- [Contributing](#contributing)
-- [License](#license)
 
 <!--lint enable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 
@@ -464,18 +462,3 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [Subreddit of Cryptography](https://www.reddit.com/r/cryptography/) - This subreddit is intended for links and discussions surrounding the theory and practice of strong cryptography.
 - [TikZ for Cryptographers](https://www.iacr.org/authors/tikz/) - A collection of block diagrams of common cryptographic functions drawn in TikZ to be used in research papers and presentations written in LaTeX.
 - [WebCryptoAPI](https://www.w3.org/TR/WebCryptoAPI/) - This specification describes a JavaScript API for performing basic cryptographic operations in web applications, such as hashing, signature generation and verification, and encryption and decryption.
-
-## Contributing
-
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/sobolevn/awesome-cryptography/blob/master/CONTRIBUTING.md) first.
-
-## License
-
-`awesome-cryptography` by [@sobolevn](https://github.com/sobolevn)
-
-To the extent possible under law, the person who associated CC0 with
-`awesome-cryptography` has waived all copyright and related or neighboring
-rights to `awesome-cryptography`.
-
-You should have received a copy of the CC0 legalcode along with this
-work.  If not, see [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/).
