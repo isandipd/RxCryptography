@@ -75,10 +75,8 @@ hr {
     width: 130px; 
 }
 
-.text img {
-    float: inline-end;
-    height: 125px; 
-    width: 110px; 
+.text {
+    float: none;
 }
 .sidenav {
     padding: 20px;
