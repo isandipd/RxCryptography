@@ -1,0 +1,155 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-size: cover;
+}
+
+header {
+    height: 175px;
+    background-image: url(./images/header.png);
+    background-size: cover;
+    background-position: center top;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-container {
+    text-align: left;
+    padding: 0 25vw 0 11vw;
+}
+
+.headerTitle {
+    font-size: 42px;
+    color: #E3E3E1;
+}
+
+.headerSubtitle {
+    font-size: 18px;
+    margin-top: 10px;
+    color: #E3E3E1;
+}
+
+nav {
+    background-color: #133876;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0 10vw 0 10vw;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav li a {
+    text-decoration: none;
+    color: #E3E3E1;
+}
+
+nav li a:hover {
+    text-decoration: underline;
+    color: #8BCAFF;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10vw;
+    padding-bottom: 20px;
+}
+
+.main-content {
+    padding: 20px;
+    flex: 1; 
+}
+
+hr {
+    border: .5px solid #333;
+    margin: 20px 15px;
+}
+.logo img {
+    float: left;
+    height: 150px; 
+    width: 130px; 
+}
+
+.text img {
+    float: inline-end;
+    height: 125px; 
+    width: 110px; 
+}
+.sidenav {
+    padding: 20px;
+    min-width: 150px; 
+    flex: 0 1 auto; /* This will make the sidebar flex with the window */
+}
+
+.sidenav a{
+    padding:6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #2196F3;
+    display: block;
+}
+.quick-links {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 1.2em;
+  color: #2196F3;
+  display: block;
+}
+
+a.Gitbutton {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #1B90FF;
+    width: 80%;
+  }
+  
+.Gitbutton img {
+    flex: 1; 
+    height: 90px; 
+    object-fit: cover; 
+}
+  
+.button-text {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    pointer-events: none;
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    justify-content: space-between; 
+}
+  
+.button-text small {
+    display: block;
+    font-size: 0.6em; 
+    text-align: right;
+    color: #fff;
+}
+
+.quick-links:hover {
+  color: #064579;
+}
+
+footer {
+    background-image: url(./images/footer.png);
+    background-size: cover;
+    background-position: center top;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+    text-align: center;
+    padding: 80px;
+}
